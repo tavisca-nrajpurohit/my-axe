@@ -1,0 +1,18 @@
+{
+  "name": "@rakoon-badshah/my-axe",
+  "version": "1.4.1",
+  "description": "Jest Axe Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "axe"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest-axe": "^3.2.1",
+    "jest-axe": "^3.4.0"
+  }
+}
